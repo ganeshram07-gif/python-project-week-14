@@ -118,6 +118,15 @@ This project uses the Kaggle Credit Card Fraud Detection dataset and demonstrate
 - Streamlit dashboard deployment.
 - Advanced anomaly detection techniques.
 
+## Visualization
+<img width="1728" height="520" alt="image" src="https://github.com/user-attachments/assets/05ed27f8-173d-431b-8b7f-5412d14b4fa4" />
+<img width="1725" height="527" alt="image" src="https://github.com/user-attachments/assets/d8961d22-663d-4e55-9042-5c7552e73957" />
+<img width="1725" height="530" alt="image" src="https://github.com/user-attachments/assets/e696bbd6-0d1c-4363-8151-23a84915d50b" />
+<img width="1733" height="523" alt="image" src="https://github.com/user-attachments/assets/e61b61ae-0421-4b79-9732-7ce2f07146a1" />
+<img width="1745" height="533" alt="image" src="https://github.com/user-attachments/assets/3e2e3fc0-8ccf-49f3-9a64-16fce95766a8" />
+<img width="803" height="706" alt="image" src="https://github.com/user-attachments/assets/0aa1296a-5ad1-4520-9cd6-519c676a97af" />
+<img width="1732" height="527" alt="image" src="https://github.com/user-attachments/assets/ffa7460c-9398-496a-8a91-d1e4f09d7908" />
+
 ---
 
 ## Conclusion
